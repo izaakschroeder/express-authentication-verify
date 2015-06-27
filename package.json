@@ -1,6 +1,6 @@
 {
 	"name": "express-authentication-verify",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"description": "Authentication callbacks for express-authentication middleware builders.",
 	"author": "Izaak Schroeder <izaak.schroeder@gmail.com>",
 	"keywords": [ "express-authentication", "express", "auth" ],
